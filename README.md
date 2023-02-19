@@ -1,4 +1,6 @@
-### 😳 Hello world 🥵
+### 😳 Hello world!
+
+- 👯 I’m looking to collaborate on something...
 
 <!--
 **javierlopez10969/javierlopez10969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
